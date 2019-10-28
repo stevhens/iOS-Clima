@@ -6,7 +6,7 @@ This app makes me learn about Cocoapods and open source libraries. These have he
 
 ## What is Clima
 
-This is trivia quiz app, inspired by the awesome “Quiz Up” game. In this app, we are remaking one of the multiple choice question apps that are one of the most popular types of educational apps on the App Store.
+This is trivia quiz app, inspired by the awesome “Quiz Up” game. In this app, I'm remaking one of the multiple choice question apps that are one of the most popular types of educational apps on the App Store.
 
 ## What I've learnt
 
