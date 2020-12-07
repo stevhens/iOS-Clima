@@ -1,5 +1,7 @@
 #  Clima
 
+![Clima-Logo](Documentation/iOS-Clima.png)
+
 ## Outline
 
 This app makes me learn about Cocoapods and open source libraries. These have helped nymypps to do incredible things without having to spend months coding up the functionality. Additionally, I learn about how to call Application Programming Interfaces (APIs) to grab data from websites.
